@@ -1,10 +1,1 @@
-<<<<<<< HEAD
-수정중this is test1 from  test2
-=======
-this is 메롱메롱test2메롱메롱
->>>>>>> 45994b3a990f37aee819f8c55ab5e8a6ada156a4
-asfasdfasdf
-asdfsadfsdf
-
-ttttttt
-gggg
+hola
