@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 merge push?
+=======
+hola
+>>>>>>> test2
