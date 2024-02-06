@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 aaa~!!!! This is aaaA~~~~
 workwork~~~!!
 11
 22
 33
 b5
+=======
+this is 메롱메롱test2메롱메롱
+>>>>>>> 31f3a4b2e56c75ab033ffb85f58f9c9e95a86c38
