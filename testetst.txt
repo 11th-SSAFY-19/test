@@ -1,7 +1,4 @@
 dasfdsfdsfdsfsd
 tesdf
 tesdf
-rebase test
-rebase test 2
-rebase test 22
-rebase test 3
+rebase resolve remote
