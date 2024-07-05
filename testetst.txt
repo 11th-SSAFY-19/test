@@ -1,4 +1,4 @@
 dasfdsfdsfdsfsd
 tesdf
 tesdf
-rebase resolve 2 continue2
+rebase resolve remote
